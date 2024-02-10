@@ -4,4 +4,4 @@ Scalable to k-tile n-gonal sliding puzzle with some modifications to rings, dist
 
 ![image](https://github.com/imbulana/hexagonal-sliding-puzzle/assets/58793447/a8466fcb-d81a-4fc1-93fd-4127176c2dc6)
 
-Image source: https://hexagonal-sliding-puzzle.web.app/#/
+Image source (and playable game): https://hexagonal-sliding-puzzle.web.app/#/
